@@ -1,0 +1,17 @@
+{
+    "recommendations": [
+        "ms-vscode.vscode-json",
+        "bradlc.vscode-tailwindcss",
+        "bmewburn.vscode-intelephense-client",
+        "formulahendry.auto-rename-tag",
+        "ms-vscode.sublime-keybindings",
+        "onecentlin.laravel-blade",
+        "onecentlin.laravel5-snippets",
+        "ryannaddy.laravel-artisan",
+        "codingyu.laravel-goto-view",
+        "amiralizadeh9480.laravel-extra-intellisense",
+        "ms-vscode.vscode-typescript-next",
+        "esbenp.prettier-vscode",
+        "ms-vscode.vscode-css"
+    ]
+}
